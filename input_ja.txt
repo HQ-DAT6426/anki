@@ -1,1 +1,2 @@
 はし = 橋 = cái cầu = 橋
+dang tap làm git
